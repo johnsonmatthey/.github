@@ -26,7 +26,7 @@ Internally sourced code is the default at JM. If you're a JM employee, you can s
 </details>
 
 <details> 
-	<summary>:snake: Developers who want to write python 👩‍🔬</summary>
+	<summary>:snake: Developers who want to write Python 👩‍🔬</summary>
 	<br>
 	<ul>
 	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer/">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
