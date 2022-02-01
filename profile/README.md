@@ -1,10 +1,10 @@
 # Hello, world! 👋
 Want to create new tools and automations to help you, your colleagues, our customers or even the world? Then you're in the right place.
 
-You could work in HR, Finance, The Technology Center or any team in IT. No matter which part of JM you work in, hopefully if you're looking for tools, support or training to help you can find them here.
+You could work in HR, Finance, The Technology Center or any team in IT. No matter which part of JM you work in, hopefully if you're looking for tools, support or training with PowerApps, writing code in Python, C#, or something else you can find what you're looking for right here.
 
 ### 🍿 Your code and solutions for everyone!
-Internally sourced code is the default at JM. If you're a JM employee, you can see most of the code written by your colleagues, and they can see yours. This is intentional and unless there is a security reason not to you should think hard before switching an repo to Private from internal.
+Internally sourced code is the default at JM. If you're a JM employee, you can see most of the code written by your colleagues, and they can see yours. This is intentional and unless there is a security reason not to you should think hard before switching a repo to Private from internal.
 
 ### :octocat: What is Git and GitHub?
 Using this [Hello World guide](https://docs.github.com/en/get-started/quickstart/hello-world), you'll learn what a repository is and we use them at Johnson Matthey.<br>
