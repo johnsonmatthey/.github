@@ -18,10 +18,10 @@ Using this [Hello World guide](https://docs.github.com/en/get-started/quickstart
 	<li>In general, software in Johnson Matthey should be installed using Digital Workplace. Some of the tools for folks who wish to create their own applications can be self serviced. But there is no support available when you install this way.</li>
 		<li>The four tools currently available for self-service 👩‍💻 are:</li>
 		<ul>
-			<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-			<li><a href="https://github.com/rails/rails">Python</a></li>
-			<li><a href="https://github.com/Homebrew">git-scm CLI</a></li>
-			<li><a href="https://github.com/Homebrew">NotePad++</a></li>
+			<li><a href="https://github.com/johnsonmatthey/JohnsonMattheyDevelopers/blob/main/bin/VSCodeUserSetup-x64-1.63.2.exe">Visual Studio Code</a></li>
+			<li><a href="https://github.com/johnsonmatthey/JohnsonMattheyDevelopers/blob/main/bin/python-3.9.10-amd64.exe">Python</a></li>
+			<li><a href="https://github.com/johnsonmatthey/JohnsonMattheyDevelopers/blob/main/bin/Git-2.35.1-64-bit.exe">git-scm CLI</a></li>
+			<li><a href="https://github.com/johnsonmatthey/JohnsonMattheyDevelopers/blob/main/bin/npp.8.2.1.portable.x64.zip">NotePad++</a></li>
 		</ul>
 	</ul>
 </details>
